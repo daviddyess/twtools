@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component type="desktop-application">
+  <id>org.example.twtools.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license> https://www.freedesktop.org/software/appstream/docs/chap-Metadata.html#tag-metadata_license </project_license>
+  <name>twtools</name>
+  <summary> https://www.freedesktop.org/software/appstream/docs/chap-Metadata.html#tag-summary </summary>
+  <description>
+    <p> https://www.freedesktop.org/software/appstream/docs/chap-Metadata.html#tag-description </p>
+  </description>
+  <url type="homepage">https://www.example.org</url>
+  <url type="bugtracker">https://bugs.example.org</url>
+  <url type="donation">https://www.example.org/community/donations</url>
+  <screenshots>
+    <screenshot type="default">
+      <image> https://www.freedesktop.org/software/appstream/docs/chap-Metadata.html#tag-screenshots </image>
+    </screenshot>
+  </screenshots>
+  <provides>
+    <binary>twtools</binary>
+  </provides>
+  <project_group>KDE</project_group>
+  <releases>
+    <release version="0.1.21080" date="2021-08-12"/>
+    <release version="0.1.21043" date="2021-07-08"/>
+    <release version="0.1.21042" date="2021-06-10"/>
+    <release version="0.1.21041" date="2021-05-13"/>
+  </releases>
+</component>

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+
+Name=twtools
+GenericName=A Simple Application written with KDE Frameworks
+Icon=twtools
+
+Exec=twtools
+StartupWMClass=twtools
+X-DocPath=twtools/index.html
